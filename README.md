@@ -6,13 +6,13 @@
 
 Hi! I'm Brian 
 
-I had learn c# , java , asp.next , 89S51 , FPGA before
+I had learn c# , java , asp.next , FPGA before
 
-But now I'm more familier with Java 
+I'm more familier with Java now
 
 Most of the projects you see here are written in Java
 
-These projects are practice from Wasington University CS class
+These projects are the practice from Wasington University CS class
 
 I'm using intelliJ writing my code 
 
