@@ -1,3 +1,9 @@
+<div id = "header" align = "center">
+   <img src="https://media.giphy.com/media/kje0rsDyVEMEzQLPol/giphy.gif" width="200"/>
+</div>
+
+<font size = "+10">About me</font>
+
 Hi! I'm Brian 
 
 I had learn c# , java , asp.next , 89S51 , FPGA before
