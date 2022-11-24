@@ -8,7 +8,6 @@ Hi! I'm Brian
 
 I had learn c# , java , asp.next , FPGA before
 
-I'm more familier with Java now
 
 Most of the projects you see here are written in Java
 
