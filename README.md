@@ -13,9 +13,8 @@ Most of the projects you see here are written in Java
 
 These projects are the practice from college CS class
 
-I'm using intelliJ writing my code 
 
-If you want to see my project code , you need to open 「src」 then you will see my code
+
 
 Hope you can learn litte bit more about my coding ability
 
